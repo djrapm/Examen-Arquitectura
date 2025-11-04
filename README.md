@@ -13,7 +13,7 @@ Se muestran datos del CPU, memoria RAM, disco duro y sistema operativo mediante 
 # Instrucciones para Ejecutar el Proyecto
 
 1. **Clonar o copiar el proyecto**
-   git clone https://github.com/tuusuario/monitor.git
+   git clone https://github.com/djrapm/Examen-Arquitectura
    cd monitor
 
 2. **Crear un entorno virtual recomendado**
