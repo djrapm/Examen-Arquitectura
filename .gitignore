@@ -1,0 +1,39 @@
+# --- ENTORNOS VIRTUALES ---
+.venv/
+venv/
+env/
+
+# --- PYTHON ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# --- DJANGO ---
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+*.pot
+*.py[cod]
+instance/
+
+# --- ARCHIVOS DE CONFIGURACIÓN PRIVADA ---
+.env
+.env.*
+*.pem
+*.key
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- DOCKER ---
+*.env
+docker-compose.override.yml
+
+# --- SISTEMA OPERATIVO ---
+.DS_Store
+Thumbs.db
