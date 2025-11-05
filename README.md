@@ -14,7 +14,7 @@ Se muestran datos del CPU, memoria RAM, disco duro y sistema operativo mediante 
 
 1. **Clonar o copiar el proyecto**
    git clone https://github.com/djrapm/Examen-Arquitectura
-   cd monitor
+   cd Examen-Arquitectura
 
 2. **Crear un entorno virtual recomendado**
     python -m venv venv
